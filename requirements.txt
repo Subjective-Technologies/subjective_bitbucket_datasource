@@ -1,0 +1,2 @@
+brainboost_configuration_package
+requests>=2.25.0

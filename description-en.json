@@ -1,4 +1,5 @@
 {
+  "description": "Clones Bitbucket repositories into a target directory using API credentials and prepares code assets for indexing workflows.",
   "domainCategory": "Software Development",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Bit Bucket",
-      "text": "A Subjective data source for bit bucket.",
+      "text": "Clones Bitbucket repositories into a target directory using API credentials and prepares code assets for indexing workflows.",
       "image": {
         "src": "/subjective_bitbucket_datasource/icon.svg",
         "alt": "Bit Bucket icon"
